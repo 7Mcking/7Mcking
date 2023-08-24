@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> Welcome </h2>
+<h2> Myverse </h2>
 <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="100"> 
-<img align='left' src=https://media.giphy.com/media/mUL2aBFJtbxh8embjx/giphy.gif width="20">
+
 
 
 
