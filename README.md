@@ -35,7 +35,6 @@ Naren Sadhwani = {
 }
 ```
 
-<em><b>Love to connect with innovative people and opportunities</b> :)</em> 
 [![Linkedin: Naren Sadhwani](https://img.shields.io/badge/-narens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khj17/)](https://www.linkedin.com/in/naren-sadhwani/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/narens?label=follow&style=social)](https://github.com/7Mcking)
 
