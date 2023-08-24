@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 Naren Sadhwani = {
   pronouns: "he" | "him",
   code: [Python, JS, SQL, C++],
-  tools: [Linux, Tensorflow, OpenCV, PyTorch, Git, Docker , Arduino, RaspberryPi, AWS, Airflow, FastAPI, MLflow, ROS2],
-  profession: [LLM, Image Processing, BackEnd,  Cloud-Server, MQTT, CAD, Simulations],
+  tools: [Linux, Tensorflow, OpenCV, PyTorch, Git, Docker , Arduino, RaspberryPi, AWS, FastAPI, MLflow, ROS2],
+  profession: [ Image Processing, BackEnd,  Cloud-Server, MQTT, CAD, Simulations],
   passion: lambda userFeedback: updateProgram(userFeedback)
-  Hobbies: Guitar, Travel, Tennis
+  hobbies: Guitar, Travel, Tennis
+  learning: [Dart, Flutter]
 }
 ```
 
