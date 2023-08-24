@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 
 <h2> Myverse </h2>
-<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="100"> 
+<img align = 'left' src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="100"> 
+<img align = 'right' src="https://media.giphy.com/media/J39XJZDieZ5cc/giphy.gif" width="150"> 
 
 
 
 
 
-### <img src="https://media.giphy.com/media/J39XJZDieZ5cc/giphy.gif" width="250"> 
 
 ```
 Naren Sadhwani = {
