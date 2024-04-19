@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 ```
 Naren Sadhwani = {
   pronouns: "he" | "him",
-  code: [Python, JS, SQL, C++],
-  tools: [Linux, Tensorflow, OpenCV, PyTorch, Git, Docker , Arduino, RaspberryPi, AWS, FastAPI, MLflow, ROS2],
+  code: [Python, SQL, C++],
+  tools: [Linux, Tensorflow, OpenCV, Git, Docker , Arduino, RaspberryPi, FastAPI, MLflow],
   profession: [ Image Processing, BackEnd,  Cloud-Server, MQTT, CAD, Simulations],
   passion: lambda userFeedback: updateProgram(userFeedback)
   hobbies: Guitar, Travel, Tennis
-  learning: [Dart, Flutter]
+  learning: [ROS2, JS, AWS]
 }
 ```
 
