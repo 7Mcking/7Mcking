@@ -30,7 +30,7 @@ Naren Sadhwani = {
   pronouns: "he" | "him",
   code: [Python, SQL, C++],
   tools: [Linux, Tensorflow, OpenCV, Git, Docker , Arduino, RaspberryPi, FastAPI, MLflow],
-  profession: [ Image Processing, BackEnd,  Cloud-Server, MQTT, CAD, Simulations],
+  profession: [ Software Engineer, Simulations],
   passion: lambda userFeedback: updateProgram(userFeedback)
   hobbies: Guitar, Travel, Tennis
   learning: [ROS2, JS, AWS]
