@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2>Welcome to My(ta)verse </h2>
+<h2>Hi, I am Naren </h2>
 <img align = 'left' src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" height = "150"width="250"> 
 <img  src="https://media.giphy.com/media/J39XJZDieZ5cc/giphy.gif" height = "150" width="250"> 
 
